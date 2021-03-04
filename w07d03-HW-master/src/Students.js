@@ -1,0 +1,38 @@
+const students = [
+	'Abdullah',
+	'Abdulrahman',
+	'Ahlam',
+	'ASIM',
+	'Batool',
+	'Dalya',
+	'Fawzia',
+	'Fidaa',
+	'Ghassan',
+	'Huda',
+	'Ibrahim',
+	'Manal Alghamdi',
+	'Manal Al Shehri',
+	'Manar',
+	'Mariam',
+	'Masheal',
+	'Meznah',
+	'Mohammed',
+	'Muath',
+	'Nawer',
+	'Njoud',
+	'Nouf',
+	'Rahmah',
+	'Raneen',
+	'Rawan',
+	'Reem',
+	'Sara Abdullah',
+	'Sarah Althowebi',
+	'Taghreed',
+	'Tala',
+	'Wael',
+	'Warood',
+];
+
+
+
+module.exports = students;
